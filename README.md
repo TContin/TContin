@@ -2,9 +2,7 @@
 
 # Contin
 
-**代码能跑，也要好用。**
-
-记录折腾的过程，把常用的东西做成工具。
+**❤**
 
 [博客](https://contin.online) · [工具箱](https://github.com/TContin/Cc-s-z7z8) · [公开仓库](https://github.com/TContin?tab=repositories)
 
